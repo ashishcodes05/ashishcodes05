@@ -21,15 +21,15 @@
 ---
 
 ### 🛠️ Projects I'm Cooking 🍳
-- 🔒 Building Auth systems from scratch (because why use Firebase when you can suffer?)
+- 🔒 Building using AI for higher productivity and efficiency
 - 📦 Creating full-stack products with performance in mind
 - 🗺️ Building apps that even my grandma can use
 
 ---
 
 ### 🧙 Fun Facts
-- 🧩 I treat bugs like Pokémon — I gotta catch (and fix) 'em all
-- 🎧 Code hits better with lo-fi beats
+- 🧩 I treat bugs like Pokémon — I gotta catch (and fix) 'em all  
+- 🎧 Code hits better with lo-fi beats  
 - 🧼 I use `console.log()` like it's a therapy session
 
 ---
@@ -44,11 +44,18 @@
 
 ---
 
+### 🧩 LeetCode Grind
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ashishcodes_IN?theme=dark&font=Baloo+Bhai&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-healing__tales-pink?style=for-the-badge&logo=instagram)](https://instagram.com/healing_tales)
-[![Dev.to](https://img.shields.io/badge/DEV.to-Blogs-black?style=for-the-badge&logo=dev.to)](https://dev.to/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-kumar-sahu-b3868a31a/)  
+[![Instagram](https://img.shields.io/badge/Instagram-_.ashishverse._-pink?style=for-the-badge&logo=instagram)](https://instagram.com/_.ashishverse._)
 
 ---
 
