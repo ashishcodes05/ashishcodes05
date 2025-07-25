@@ -6,9 +6,10 @@
 ---
 
 ### 🧬 About Me
-- 🧠 CSE Undergrad @ IIIT Bhubaneswar  
+- 🧠 Currently in 3rd yr @ IIIT Bhubaneswar  
 - 🔭 Currently building awesome MERN stack projects  
-- ⚙️ I break stuff... then fix it like a pro (usually 😅)  
+- ⚙️ I break stuff... then fix it like a pro (usually 😅)
+- 💻 Beginner in github
 - 🐱‍💻 Learning low-level system design just to impress the compiler  
 - 🕶️ Fluent in sarcasm and JavaScript
 
@@ -16,7 +17,7 @@
 
 ### 🔨 Tech Arsenal
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,tailwind,bootstrap,linux,cpp,py,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,tailwind,bootstrap,linux,cpp,vscode)
 
 ---
 
