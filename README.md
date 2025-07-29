@@ -10,8 +10,7 @@
 - 🔭 Currently building awesome MERN stack projects  
 - ⚙️ I break stuff... then fix it like a pro (usually 😅)
 - 💻 Beginner in github
-- 🐱‍💻 Learning low-level system design just to impress the compiler  
-- 🕶️ Fluent in sarcasm and JavaScript
+- 🕶️ Fluent in Java & JavaScript
 
 ---
 
