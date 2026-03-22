@@ -1,14 +1,12 @@
 <div align="center">
 
 ```
- ▄████████    ▄████████    ▄█    █▄       ▄████████    ▄████████    ▄█    █▄  
-███    ███   ███    ███   ███    ███     ███    ███   ███    ███   ███    ███ 
-███    ███   ███    █▀    ███    ███     ███    █▀    ███    █▀    ███    ███ 
-███    ███   ███         ▄███▄▄▄▄███▄   ███         ▄███▄▄▄      ▄███▄▄▄▄███▄
-▀███████████ ███        ▀▀███▀▀▀▀███▀   ███        ▀▀███▀▀▀     ▀▀███▀▀▀▀███▀
-         ███ ███    █▄    ███    ███     ███    █▄    ███    █▄    ███    ███ 
-   ▄█    ███ ███    ███   ███    ███     ███    ███   ███    ███   ███    ███ 
- ▄████████▀  ████████▀    ███    █▀      ████████▀   ██████████   ███    █▀  
+ ██████╗ ███╗   ███╗███╗   ███╗
+██╔═══██╗████╗ ████║████╗ ████║
+██║   ██║██╔████╔██║██╔████╔██║
+██║   ██║██║╚██╔╝██║██║╚██╔╝██║
+╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║
+ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝
 ```
 
 </div>
@@ -112,18 +110,18 @@ const ashish = {
 
 ## 🎯 2025 Goals
 
-- [ ] 🧠 Master System Design fundamentals
-- [ ] 🚀 Launch 2+ production-ready projects
-- [ ] 📚 Solve 300+ LeetCode problems
-- [ ] 🤝 Contribute to open source
-- [ ] 💼 Land an impactful internship
+- [ ] &nbsp;🧠 Master System Design fundamentals
+- [ ] &nbsp;🚀 Launch 2+ production-ready projects
+- [ ] &nbsp;📚 Solve 300+ LeetCode problems
+- [ ] &nbsp;🤝 Contribute to open source
+- [ ] &nbsp;💼 Land an impactful internship
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashishcodes05/ashishcodes05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishcodes05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" alt="Contribution Graph" />
 </div>
 
 ---
